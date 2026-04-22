@@ -1,0 +1,11 @@
+tenure,MonthlyCharges,TotalCharges,SeniorCitizen,gender,Partner,Dependents,PhoneService,MultipleLines,InternetService,OnlineSecurity,TechSupport,Contract,PaperlessBilling,PaymentMethod
+2,89.1,178.2,0,Female,Yes,No,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Electronic check
+34,45.0,1530.0,0,Male,No,No,Yes,No,DSL,Yes,No,One year,No,Mailed check
+2,92.3,184.6,0,Male,No,No,Yes,No,Fiber optic,No,No,Month-to-month,Yes,Mailed check
+45,55.2,2484.0,0,Female,No,No,Yes,No,DSL,Yes,Yes,One year,No,Bank transfer (automatic)
+60,35.8,2148.0,1,Female,No,No,Yes,No,No,No internet service,No internet service,Two year,No,Bank transfer (automatic)
+8,78.9,631.2,0,Male,Yes,No,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check
+22,60.5,1331.0,0,Male,No,No,Yes,No,DSL,Yes,Yes,One year,Yes,Credit card (automatic)
+10,95.1,951.0,0,Female,Yes,No,Yes,Yes,Fiber optic,No,No,Month-to-month,Yes,Electronic check
+5,42.3,211.5,0,Male,No,Yes,No,No phone service,DSL,No,Yes,Two year,No,Mailed check
+72,29.8,2145.6,1,Female,Yes,No,Yes,No,No,No internet service,No internet service,Two year,No,Bank transfer (automatic)
